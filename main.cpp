@@ -364,7 +364,7 @@ int main() {
     //exit(0);
     ReadBGRAnConvertYUVA422();
     //exit(0);
-    ReadYUV444nConvertYUV422(); // Working....
+    ReadYUV444nConvertYUV422(); 
     //exit(0);
-    ReadYUV444nConvertYUV420(); // Working....
+    ReadYUV444nConvertYUV420(); 
 }
